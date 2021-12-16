@@ -1,0 +1,1 @@
+console.log("created a repo on local --> created a repo on github --> push local to remote");
